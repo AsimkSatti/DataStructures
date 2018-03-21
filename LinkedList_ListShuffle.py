@@ -1,6 +1,6 @@
 """
 Asim Satti
-HW5 Part 2 : list shuffle
+list shuffle
 Linkedlist 
 
 """

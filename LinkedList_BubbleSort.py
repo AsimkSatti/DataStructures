@@ -1,7 +1,7 @@
 """
 
 Asim Satti
-HW5  Part 1:  BubbleSort
+BubbleSort
 Linkedlist
 
 """
